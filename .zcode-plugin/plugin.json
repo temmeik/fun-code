@@ -1,0 +1,7 @@
+{
+  "name": "fun-code",
+  "version": "0.1.0",
+  "description": "Joke troll mode: the agent works like an overconfident clumsy idiot, plants silly mistakes in the easiest places, and stays annoying until told to stop.",
+  "author": { "name": "Yeban" },
+  "skills": "./skills"
+}

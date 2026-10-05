@@ -1,0 +1,16 @@
+{
+  "name": "fun-code",
+  "plugins": [
+    {
+      "name": "fun-code",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Joke troll mode: the agent works like an overconfident clumsy idiot, plants silly mistakes in the easiest places, and stays annoying until told to stop.",
+      "displayName": "Fun Code",
+      "description_i18n": {
+        "ru-RU": "Шуточный режим-тролль: агент работает как самодовольный идиот, ошибается на лёгких местах и докучает, пока не скажешь «хватит»."
+      },
+      "category": "other"
+    }
+  ]
+}
